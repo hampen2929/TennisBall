@@ -1,0 +1,14 @@
+cut match part
+ - detect from court line or melbourne
+
+ball annotation
+ - first set or sub games
+
+build model
+ - yolo
+ - ssd
+
+train
+
+eval
+
